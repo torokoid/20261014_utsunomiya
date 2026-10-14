@@ -276,6 +276,9 @@ p.note { display: none; }
 <h2><span class="yellow">いつもの牛丼サラダセット</span></h2>
 <a href="20261014_00008.jpeg" target="_blank"><img src="20261014_00008.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
+<h2><span class="yellow">国道4号線を消防車が走り抜けました</span></h2>
+<a href="IMG_3709.MOV" target="_blank"><img src="IMG_3709.MOV" alt="サンプル画像" class="responsive-media"></a>
+
 <h2><span class="yellow">帰り道のスーパーのお花屋さんのお花達が皆元気にこんにちは！</span></h2>
 <a href="20261014_00009.jpeg" target="_blank"><img src="20261014_00009.jpeg" alt="サンプル画像" class="responsive-media"></a>
 <a href="20261014_00010.jpeg" target="_blank"><img src="20261014_00010.jpeg" alt="サンプル画像" class="responsive-media"></a>
