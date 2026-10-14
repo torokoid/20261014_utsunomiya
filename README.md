@@ -213,7 +213,7 @@ p.note { display: none; }
 <div id="splash">
   <div class="splash-content">
     <img src="20261014_00005.jpeg" alt="オープニング画像">
-    <div class="splash-text">最初の一枚は菊のお花達</div>
+    <div class="splash-text">最初の一枚はペットショップのわんちゃん</div>
   </div>
 </div>
 
