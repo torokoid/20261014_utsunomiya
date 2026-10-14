@@ -315,7 +315,7 @@ p.note { display: none; }
 
 <br><br>
 
-<h2><span class="yellow">今日のBGMは自動再生、Relaxing Music with Water Sounds 🌿 Healing, Relaxing, Deep Sleep, Anxiety Relief & Nature Sounds</span></h2>
+<h2><span class="yellow">今日のBGMは、Relaxing Music with Water Sounds 🌿 Healing, Relaxing, Deep Sleep, Anxiety Relief & Nature Sounds</span></h2>
 <div class="youtube-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3X6oWZKN90I?si=RQCvhME-qB2-18eV&autoplay=1&mute=0&loop=1&playlist=3X6oWZKN90I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
